@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.2",
+    "nodemon": "^3.1.10"
+  },
+  "name": "onefielddatabaseweb",
+  "version": "1.0.0",
+  "main": "demo_db_connection.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
